@@ -1,42 +1,40 @@
-name: Generate GitHub Snake Game
+<p align="center">
+  <img src="./banner.png" width="100%">
+</p>
+<h1 align="center">
+  Hello Coders <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Mohua Dutta
+</h1>
 
-on:
-  schedule:
-    # Run daily at midnight UTC
-    - cron: "0 0 * * *"
-  workflow_dispatch:
-  push:
-    branches:
-      - main
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=2500&pause=1000&color=A855F7&center=true&vCenter=true&width=500&lines=Frontend+Developer;Web+Developer;Engineering+Student;Always+Learning+%F0%9F%92%9C" />
+</p>
+<p align="center">
 
-# Grant write permissions to push to branches
-permissions:
-  contents: write
+  <img src="https://img.shields.io/badge/Name-Mohua%20Dutta-A855F7?style=for-the-badge">
 
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    timeout-minutes: 10
+  <img src="https://img.shields.io/badge/Handle-FranX0820-A855F7?style=for-the-badge">
 
-    steps:
-      - name: Checkout Repository
-        uses: actions/checkout@v4
+  <img src="https://img.shields.io/badge/Degree-B.Tech%20CSE-A855F7?style=for-the-badge">
 
-      - name: Generate GitHub Contributions Snake Animations
-        uses: Platane/snk@v3
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark
-            dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+  <img src="https://img.shields.io/badge/College-IEM%20Kolkata-A855F7?style=for-the-badge">
 
-      - name: Deploy to Output Branch
-        uses: peaceiris/actions-gh-pages@v4
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./dist
-          publish_branch: output
-          commit_message: "Update snake animation [skip ci]"
+</p>
+<hr>
+
+<h3 align="center">
+  🔗 Connect with me 🌍
+</h3>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/mohua-dutta-b659a8370/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-A855F7?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+
+  <a href="https://www.instagram.com/mohuathisside/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-A855F7?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+  </a>
+
+
+</p>
+
+<hr>
