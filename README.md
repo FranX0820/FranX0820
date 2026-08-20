@@ -38,3 +38,4 @@
 </p>
 
 <hr>
+![Snake Animation](https://raw.githubusercontent.com/FranX0820/FranX0820/output/ocean.gif)
