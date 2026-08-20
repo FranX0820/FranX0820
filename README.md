@@ -28,5 +28,5 @@
 <p align="center">
     <a href="https://www.linkedin.com/in/mohua-dutta-b659a8370/"><img height="34" src="images/socials/linked-in.svg" alt="LinkedIn"></a>&nbsp;&nbsp;
     <a href="https://instagram.com/mohuathisside"><img height="34" src="images/socials/instagram.svg" alt="Instagram"></a>&nbsp;&nbsp;
-
+</p>
 <hr>
