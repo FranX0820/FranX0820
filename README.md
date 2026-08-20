@@ -19,3 +19,21 @@
   <img src="https://img.shields.io/badge/College-IEM%20Kolkata-A855F7?style=for-the-badge">
 
 </p>
+<hr>
+
+<h3 align="center">
+  🔗 Connect with me 🌍
+</h3>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/mohua-dutta-b659a8370/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-A855F7?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+
+  <a href="https://www.instagram.com/mohuathisside/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-A855F7?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+  </a>
+
+</p>
+
+<hr>
