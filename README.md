@@ -26,7 +26,9 @@
 </h3>
 
 <p align="center">
-    <a href="https://www.linkedin.com/in/mohua-dutta-b659a8370/"><img height="34" src="images/socials/linked-in.svg" alt="LinkedIn"></a>&nbsp;&nbsp;
-    <a href="https://instagram.com/mohuathisside"><img height="34" src="images/socials/instagram.svg" alt="Instagram"></a>&nbsp;&nbsp;
+    <a href="https://linkedin.com/in/snehasishxofficial"><img height="34" src="images/socials/linked-in.svg" alt="LinkedIn"></a>&nbsp;&nbsp;
+    <a href="https://facebook.com/snehasishxofficial"><img height="34" src="images/socials/facebook.svg" alt="Facebook"></a>&nbsp;&nbsp;
+    <a href="https://instagram.com/snehasishxofficial"><img height="34" src="images/socials/instagram.svg" alt="Instagram"></a>&nbsp;&nbsp;
+    <a href="https://twitter.com/snehasishxdas"><img height="34" src="images/socials/twitter.svg" alt="Twitter"></a>
 </p>
 <hr>
