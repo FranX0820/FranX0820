@@ -1,5 +1,4 @@
-[# 💫 About Me:
-I’m Mohua Dutta, a 2nd-year Engineering student at Institute of Engineering & Management (IEM), Salt Lake, Kolkata. I have a strong interest in software development and technology, with knowledge of Python, C, C++, JavaScript, HTML, CSS, MySQL, and MongoDB. I enjoy building projects, learning new technologies, and continuously improving my programming and problem-solving skills.<br>
+Hey! I'm Mohua Dutta, a 2nd-year Engineering student at Institute of Engineering & Management (IEM), Salt Lake, Kolkata. I have a strong interest in software development and technology, with knowledge of Python, C, C++, JavaScript, HTML, CSS, MySQL, and MongoDB. I enjoy building projects, learning new technologies, and continuously improving my programming and problem-solving skills.<br>
 
 
 ## 🌐 Socials:
