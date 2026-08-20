@@ -29,6 +29,7 @@
   <a href="https://www.linkedin.com/in/mohua-dutta-b659a8370/">
     <img src="https://skillicons.dev/icons?i=linkedin" width="45" height="45" alt="LinkedIn">
   </a>
+  &nbsp;&nbsp;
   
   <a href="https://www.instagram.com/mohuathisside/">
     <img src="https://skillicons.dev/icons?i=instagram" width="45" height="45" alt="Instagram">
