@@ -38,4 +38,8 @@
 </p>
 
 <hr>
-![Snake Animation](https://raw.githubusercontent.com/FranX0820/FranX0820/output/ocean.gif)
+<h3 align="center">🐍 Contribution Snake</h3>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/FranX0820/FranX0820/output/ocean.gif" alt="Snake Animation" />
+</p>
