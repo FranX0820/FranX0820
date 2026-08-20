@@ -26,14 +26,15 @@
 </h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/mohua-dutta-b659a8370/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-A855F7?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  <a href="https://www.linkedin.com/in/mohua-dutta-b659a8370/">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="45" height="45">
   </a>
-
-  <a href="https://www.instagram.com/mohuathisside/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-A855F7?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+  &nbsp;
+  <a href="https://www.instagram.com/mohuathisside/">
+    <img src="https://skillicons.dev/icons?i=instagram" width="45" height="45">
   </a>
-
+  &nbsp;
+ 
 </p>
 
 <hr>
