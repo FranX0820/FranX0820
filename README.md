@@ -16,8 +16,6 @@
 
   <img src="https://img.shields.io/badge/Degree-B.Tech%20CSE-A855F7?style=for-the-badge">
 
-  <img src="https://img.shields.io/badge/Specialisation-Frontend%20Developer-A855F7?style=for-the-badge">
-
   <img src="https://img.shields.io/badge/College-IEM%20Kolkata-A855F7?style=for-the-badge">
 
 </p>
